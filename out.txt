@@ -1,0 +1,5 @@
+mfcc_features/aac5b7c1_nohash_0.txt up off unknown 0.897147 0.0947439 0.00225849
+mfcc_features/aac5b7c1_nohash_0.txt up off unknown 0.897147 0.0947439 0.00225849
+mfcc_features/aac5b7c1_nohash_0.txt up off unknown 0.897147 0.0947439 0.00225849
+mfcc_features/aac5b7c1_nohash_0.txt up off unknown 0.897147 0.0947439 0.00225849
+mfcc_features/aac5b7c1_nohash_0.txt up off unknown 0.897147 0.0947439 0.00225849
